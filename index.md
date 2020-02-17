@@ -8,7 +8,7 @@ I am a fullstack developer at SAP Labs.
 
 [Detecting Depression Triggers in YouTube videos](https://guides.github.com/features/mastering-markdown/)
 
-[Using Affective Computing to Analyse Depression](https://guides.github.com/features/mastering-markdown/)
+[Using Affective Computing to Analyse Depression](https://thechange.github.io/Detecting-Depression-through-YouTube-history/)
 
 [Fake News Detection during disasters](https://thechange.github.io/Fake-News-Detection/)
 
