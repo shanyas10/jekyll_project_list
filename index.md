@@ -1,4 +1,4 @@
-## About me
+## Shanya Sharma
 
 I am a fullstack developer at SAP Labs. 
 
