@@ -12,7 +12,7 @@ I am a fullstack developer at SAP Labs.
 
 [Fake News Detection during disasters](https://guides.github.com/features/mastering-markdown/)
 
-[Effective Summarizer](https://guides.github.com/features/mastering-markdown/)
+[Effective Summarizer](https://thechange.github.io/SUMA-The-Summarizer/)
 
 
 ### Contact
