@@ -17,9 +17,7 @@ I am a fullstack developer at SAP Labs.
 
 ### Contact
 
-[Website](https://shanyasharma.com/)
-
-[Linkedin](https://www.linkedin.com/in/shanya-sharma-thechange/)
-
-[GitHub](https://github.com/thechange)
+* [Website](https://shanyasharma.com/)
+* [Linkedin](https://www.linkedin.com/in/shanya-sharma-thechange/)
+* [GitHub](https://github.com/thechange)
 
